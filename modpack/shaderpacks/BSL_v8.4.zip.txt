@@ -1,0 +1,6 @@
+#Fri May 02 18:07:38 BRT 2025
+shadowDistance=192.0
+LIGHT_SHAFT=false
+shadowMapResolution=1536
+TAA=false
+SHADOW_COLOR=false

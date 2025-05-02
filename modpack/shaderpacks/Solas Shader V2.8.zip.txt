@@ -1,0 +1,13 @@
+#Fri May 02 18:06:45 BRT 2025
+shadowDistance=128.0
+VOXEL_VOLUME_SIZE=128
+VC=false
+GENERATED_NORMALS=false
+GENERATED_SPECULAR=false
+END_CLOUDY_FOG=false
+shadowMapResolution=1024
+LPV_FOG=false
+NETHER_CLOUDY_FOG=false
+VPS=false
+AURORA=false
+VL_SAMPLES=7
