@@ -51,6 +51,20 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jade": {
+    "coordinates.rel": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "mod_name": true
+  },
+  "lootr": {
+    "info": true
+  },
+  "balm": {
+    "jade": true
+  },
   "ars_nouveau": {
     "mob_jar": true
   },
@@ -73,14 +87,6 @@
   "supplementaries": {
     "hat_stand": true
   },
-  "jade": {
-    "coordinates.rel": false,
-    "distance": false,
-    "block_face": false,
-    "coordinates": false,
-    "registry_name": "OFF",
-    "mod_name": true
-  },
   "create": {
     "filter": true,
     "backtank_capacity": true,
@@ -95,11 +101,11 @@
   "waystones": {
     "waystone": true
   },
+  "camera": {
+    "image_frame": true
+  },
   "corpse": {
     "corpse": true
-  },
-  "balm": {
-    "jade": true
   },
   "securitycraft": {
     "showowner": true,

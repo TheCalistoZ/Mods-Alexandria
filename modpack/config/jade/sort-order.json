@@ -1,6 +1,7 @@
 {
   "ars_nouveau:mob_jar": null,
   "balm:jade": null,
+  "camera:image_frame": null,
   "corpse:corpse": null,
   "create:backtank_capacity": null,
   "create:blaze_burner": null,
@@ -16,6 +17,7 @@
   "jade:mod_name": null,
   "jade:object_name": null,
   "jade:registry_name": null,
+  "lootr:info": null,
   "lootr:inventory": null,
   "mekanism:data_provider": null,
   "mekanism:entity_data_provider": null,

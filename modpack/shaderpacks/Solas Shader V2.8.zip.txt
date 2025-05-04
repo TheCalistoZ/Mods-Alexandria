@@ -1,6 +1,10 @@
-#Fri May 02 18:06:45 BRT 2025
-shadowDistance=128.0
+#Sun May 04 14:50:20 BRT 2025
+shadowDistance=256.0
 VOXEL_VOLUME_SIZE=128
+WAVING_LEAVES=false
+BLOOM=false
+WAVING_PLANTS=false
+WATER_NORMALS=0
 VC=false
 GENERATED_NORMALS=false
 GENERATED_SPECULAR=false
@@ -8,6 +12,10 @@ END_CLOUDY_FOG=false
 shadowMapResolution=1024
 LPV_FOG=false
 NETHER_CLOUDY_FOG=false
+VL=false
 VPS=false
+PLANAR_CLOUDS=false
+VC_SHADOWS=false
+REFRACTION=false
 AURORA=false
 VL_SAMPLES=7
